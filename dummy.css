@@ -253,9 +253,13 @@ a{
         font-size: 2em;
     }
     .nav-branding{
-        font-size: 1.5em;
+        font-size: .9em;
     }
     a{
         font-size: .75em;
+    }
+
+    .nav-menu{
+        gap: 30px;
     }
 }
