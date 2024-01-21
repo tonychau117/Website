@@ -245,4 +245,17 @@ a{
     aside, section, article{
         width: 100%;
     }
+
+    #hOne{
+        font-size: 2em;
+    }
+    #hTwo{
+        font-size: 2em;
+    }
+    .nav-branding{
+        font-size: 1.5em;
+    }
+    a{
+        font-size: .75em;
+    }
 }
